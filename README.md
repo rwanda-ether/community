@@ -5,7 +5,7 @@ This repository is for operating Rwanda-Ether, an Ethereum community in Rwanda.
 ## What is Rwanda-Ether
 
 Rwanda-Ether is an Ethereum community in Rwanda.
-It focuses on engineering aspect for disscussing about dApp developtment and teaching earch other about how to develop.
+It focuses on engineering aspects for disscussing about the Ethereum dApp developtment and teaching earch other.
 
 ## Social Media
 - Twitter : https://twitter.com/EtherRwanda
