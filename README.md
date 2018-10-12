@@ -17,13 +17,13 @@ It focuses on engineering aspects for disscussing about the Ethereum dApp develo
 
 ### Rwanda-Ether Meetup - Block #0
 
-2018/12/X(X) 10:00〜15:00 / KIGALI
+XX-th Dec 2018 10:00〜15:00 / KIGALI
 
 ### Rwanda-Ether Meetup - Block #1
 
-2018/03/X(X) 10:00〜15:00 / KIGALI
+XX-th Mar 2019 10:00〜15:00 / KIGALI
 
 ### Rwanda-Ether Meetup - Block #2
 
-2018/06/X(X) 10:00〜15:00 / KIGALI
+XX-th June 2019 10:00〜15:00 / KIGALI
 
